@@ -1,0 +1,134 @@
+.container {
+    background-color: #F0F2F5;
+
+}
+.container {
+    display: flex;
+}
+.login-section {
+    display: block;
+    /*background-color: #fff;*/
+
+}
+.login-div {
+    background: #fff;
+    /*border: 0.01px solid grey;*/
+    border-radius: 2.5%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: 40px 0 0;
+    padding: 20px;
+    text-align:center;
+    height: 315px;
+    width: 356px;
+}
+.login-div {
+
+}
+
+.login-form {
+    background-color: #fff;
+}
+.under-title {
+    display: block;
+}
+
+.facebook-section img{
+    width: 301.062px;
+    margin-left: -30px;
+}
+.facebook-sentense {
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Helvetica, Arial, sans-serif;
+    margin-top: -20px;
+}
+.container {
+    background-color: #F0F2F5;
+    margin: 0 auto;
+    width: 980px;
+    margin-top: 60px;
+}
+body { 
+    background-color: #F0F2F5;
+}
+
+.facebook-section {
+   align-items: left;
+   text-align: left; 
+   margin: 0 0px;
+   width: 30%;
+   margin-top:50px;
+   width: 580px;
+   padding-top: 32px;
+   padding-right: 40px;
+}
+.input-login {
+    width: 330px;
+    height: 22px;
+    border: 2px solid #DDDFE2;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 14px 16px;
+    font-size: 17PX;
+
+}
+.login-btn {
+    /*
+    width:365px;
+    padding: 0px 16px;
+    background-color: #1877F2;
+    border-radius: 6px;
+    color: white;
+    font-size: 15px;
+    line-height: 48px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom:8px;
+    font-weight: 600;
+    font-family: inherit;
+    line-height: 48px;
+    font: 20px Helvetica, arial, sans-serif;*/
+    font: 20px Helvetica, arial, sans-serif;
+    width:365px;
+    padding: 0px 16px;
+    background-color: #1877F2;  
+    border-radius: 6px;
+    color: white;
+    font-size: 20px;
+    line-height: 48px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: 600;
+    
+}
+.create-btn {
+    width:auto;
+    padding: 0px 16px;
+    background-color: #42b72a;  
+    border-radius: 6px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    line-height: 48px;
+    cursor: pointer;
+    margin-top: 0px;
+    font-weight: 600;
+    
+    /*font: 20px Helvetica, arial, sans-serif;*/
+}
+
+.pwd-for{
+    margin-top: 15px;
+    color:#1877f2;
+
+}
+.hr-class{
+    border: 1px solid #DADDE1;
+    margin: 20px 16px;
+}
+.under-title{
+    margin: 15px auto;
+    text-align: center;
+}
